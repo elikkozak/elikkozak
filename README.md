@@ -7,10 +7,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="elikkozak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][2]
 
 
 
+[1]: https://www.linkedin.com/in/elik-kozak-35b489228/
+[2]: mailto:elik.kozak@gmail.com
 
-
-[linkedin]: https://www.linkedin.com/in/elik-kozak-35b489228/
